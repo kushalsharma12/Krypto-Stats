@@ -14,4 +14,3 @@ interface KryptoInterface {
 
 }
 
-//https://api.coinpaprika.com/v1/coins?api_key=261edac420msh334f4d543490fep16097ajsn3f69ft
